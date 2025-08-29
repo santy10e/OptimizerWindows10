@@ -46,16 +46,6 @@ El diccionario `OPCIONES_BARRA_TAREAS` modifica el registro para personalizar y 
 
 ---
 
-## 📂 Estructura del Proyecto
-
-```
-📁 windows-tweaks
- ├── optimizaciones.py   # Contiene diccionarios con comandos y ajustes del registro
- ├── README.md           # Documentación del proyecto
-```
-
----
-
 ## ⚠️ Advertencia
 
 - Algunos cambios son irreversibles sin restaurar manualmente los valores del registro.  
